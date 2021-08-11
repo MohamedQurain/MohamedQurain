@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohamedQurain
+- 👋 Hi, I’m Mohamed Qurain
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Front-end development
 - 📫 How to reach me @dev.qurain@outlook.com
